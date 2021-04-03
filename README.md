@@ -1,4 +1,4 @@
-<img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/Banner.jpg" height="500">
+<img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/Banner.jpg" width:"100%" height="500px">
 
 <h2> Hey there! I'm Koseemani.</h2>
 
