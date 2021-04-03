@@ -1,4 +1,4 @@
-<img src="https://ibb.co/JvMzhRr">
+<img src="https://ibb.co/">
 
 <h2> Hey there! I'm Koseemani.</h2>
 
@@ -21,7 +21,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-   FireBase &nbsp &nbsp
+   FireBase &nbsp; &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -45,6 +45,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+<a href="https://twitter.com/olowokosh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-twitter.com%2Folowokosh-red"></a>
+<a href="https://instagram.com/jesukoseemani"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-Instagram%2Fjesukoseemani-Purple%20"></a>
 <a href="https://www.linkedin.com/in/koseemani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-koseemani-blue"></a>
 <a href="mailto:olowosusiayo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-olowosusiayo%40gmail.com%20-brightgreen"></a>
 </p>
