@@ -1,4 +1,4 @@
-<img src="https://ibb.co/">
+<img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/Banner.jpg">
 
 <h2> Hey there! I'm Koseemani.</h2>
 
