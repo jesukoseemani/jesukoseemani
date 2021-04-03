@@ -1,4 +1,4 @@
-<img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/Banner.jpg">
+<img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/Banner.jpg" height="500">
 
 <h2> Hey there! I'm Koseemani.</h2>
 
@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently studying UX design by GOOGLE on COURSERA.
-- 💼 &nbsp; Freelancing at Nugi Technologies as a FrontEnd Developer.
+- 💼 &nbsp; LOOKING FOR A FULL-TIME SOFTRE DEVELOPMENT JOB. RN:Freelancing at Nugi Technologies as a FrontEnd Developer.
 - 🌱 &nbsp; Learning more on Node, MongoDB & Express.
 - ✍️ &nbsp; Pursuing UX/UI Design and Blog Writing as hobbies/side hustles.
 
