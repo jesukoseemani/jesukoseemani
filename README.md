@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently studying UX design by GOOGLE on COURSERA.
-- 💼 &nbsp; LOOKING FOR A FULL-TIME SOFTRE DEVELOPMENT JOB. RN:Freelancing at Nugi Technologies as a FrontEnd Developer.
+- 💼 &nbsp; LOOKING FOR A FULL-TIME SOFTWARE DEVELOPMENT JOB. RN:Freelancing at Nugi Technologies as a FrontEnd Developer.
 - 🌱 &nbsp; Learning more on Node, MongoDB & Express.
 - ✍️ &nbsp; Pursuing UX/UI Design and Blog Writing as hobbies/side hustles.
 
