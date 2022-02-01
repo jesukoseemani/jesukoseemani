@@ -1,14 +1,15 @@
-<img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/small%20banner.svg" width="100%" height="500px" object-fit="cover">
+<!-- <img src="https://github.com/jesukoseemani/jesukoseemani/blob/main/small%20banner.svg" width="100%" height="500px" object-fit="cover"> -->
 
 <h2> Hey there! I'm Koseemani.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- ✍️ &nbsp; Pursuing to becoming Biological Scientist and Software development to improve technology in the world.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently studying UX design by GOOGLE on COURSERA.
-- 💼 &nbsp; LOOKING FOR A FULL-TIME SOFTWARE DEVELOPMENT JOB. RN:Freelancing at Nugi Technologies as a FrontEnd Developer.
+<!-- - 💼 &nbsp; LOOKING FOR A FULL-TIME SOFTWARE DEVELOPMENT JOB. RN:Freelancing at Nugi Technologies as a FrontEnd Developer. -->
 - 🌱 &nbsp; Learning more on Node, MongoDB & Express.
-- ✍️ &nbsp; Pursuing UX/UI Design and Blog Writing as hobbies/side hustles.
+<!-- - ✍️ &nbsp; Pursuing UX/UI Design and Blog Writing as hobbies/side hustles. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
